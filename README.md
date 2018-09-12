@@ -11,3 +11,7 @@ You can view entries.
 You can search entries with a query.
 You can delete entries.
 
+## Bear Builder
+
+An app that allows you to name and customize a bear.
+Completed for the course Flask Basics on Treehouse
